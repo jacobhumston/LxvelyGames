@@ -1,4 +1,4 @@
-cooldown = false
+local cooldown = false
 script.Parent.Touched:Connect(function(touched)
 	if touched.Parent:FindFirstChild("Humanoid") then
 		if cooldown == false then
