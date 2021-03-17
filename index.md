@@ -11,8 +11,6 @@ You can find scripts for our models and plugins here. *(Games are not included.)
 ## Version Table
 
 Name | Type | Version
-
 ------------ | ------------ | ------------
-
 SignPlugin | Plugin | V1
 ObbyStarterKit | Model | V1.2
