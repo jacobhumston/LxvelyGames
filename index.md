@@ -9,7 +9,10 @@ You can find scripts for our models and plugins here. *(Games are not included.)
 *You can find the link for the models and plugins in their `LINK.md`.*
 
 ## Version Table
+
 Name | Type | Version
+
 ------------ | ------------ | ------------
+
 SignPlugin | Plugin | V1
 ObbyStarterKit | Model | V1.2
