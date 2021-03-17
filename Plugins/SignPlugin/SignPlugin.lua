@@ -21,12 +21,12 @@ local widgetInfo = DockWidgetPluginGuiInfo.new(
 )
 
 local ChangeHistoryService = game:GetService("ChangeHistoryService")
-local toolbar = plugin:CreateToolbar("Sign Creator")
+local toolbar = plugin:CreateToolbar("Sign Creator V1")
 local newbuttontop = toolbar:CreateButton("New Sign", "Create a Sign!", "rbxassetid://6304009908")
 
 local newwindow = plugin:CreateDockWidgetPluginGui("CreateSignWindow", widgetInfo)
-newwindow.Title = "New Sign - Sign Creator"
-newwindow.Name = "Sign Creator"
+newwindow.Title = "New Sign - Sign Creator V1"
+newwindow.Name = "Sign Creator V1"
 
 local textbox = Instance.new("TextBox")
 textbox.BorderSizePixel = 0
