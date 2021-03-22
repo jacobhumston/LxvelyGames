@@ -13,7 +13,7 @@ function KickAge(player,age)
 		timeword = "day"
 	end	
 	function sendmessage(message)
-	print(message)
+		print(message)
 	end
 	for i,v in ipairs(game:GetService("Players")) do
 		local playerage = player.Age
