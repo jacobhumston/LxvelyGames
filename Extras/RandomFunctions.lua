@@ -16,7 +16,7 @@ function KickAge(player,age)
 		print(message)
 	end
 	for i,v in ipairs(game:GetService("Players")) do
-		local playerage = player.Age
+		local playerage = player.AccountAge
 		if v ~= player then
 			if playerage < age then
 				v:Kick("⚠️ \nYou have been kicked dew to your account being less then ".. age .." ".. timeword .." old. \nMod/Admin: ".. player.Name)
