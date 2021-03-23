@@ -27,3 +27,11 @@ function KickAge(player,age)
 		end
         end
 end
+
+function ListChildren(instance)
+	print("📚 | Printing children.")
+	for i,v in ipairs(instance:GetChildren()) do
+		print(i .. " | " .. v.Name)
+	end
+	print("📚 | Finished printing children.")
+end
