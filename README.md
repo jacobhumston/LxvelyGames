@@ -8,6 +8,8 @@ You can find scripts for our models and plugins here. *(Games are not included.)
 
 **Feel free to make a [pull request](https://github.com/jacobhumston/LxvelyGames/pulls) or an [issue](https://github.com/jacobhumston/LxvelyGames/issues)!**
 
+*Also [here's a random Discord.Js example I made](https://gist.github.com/jacobhumston/08c5f7adf32368bb01d164faeed5acc5). Note it's for an outdated verison.*
+
 ## Version Table
 Name | Type | Version
 ------------ | ------------ | ------------
