@@ -1,4 +1,5 @@
-# Lxvely Games GitHub Repository
+![image](Extras/repository-open-graph-template.jpg)
+---
 #### A GitHub repository for the Roblox group Lxvely Games!
 You can find scripts for our models and plugins here. *(Games are not included.)*
 
