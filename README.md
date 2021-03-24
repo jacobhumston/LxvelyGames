@@ -1,5 +1,7 @@
-![image](<img src="Extras/repository-open-graph-template.jpg" width="100">)
+<img src="Extras/repository-open-graph-template.jpg" width="500">
+
 ---
+
 #### A GitHub repository for the Roblox group Lxvely Games!
 You can find scripts for our models and plugins here. *(Games are not included.)*
 
