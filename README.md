@@ -12,6 +12,7 @@ Currently this repository is only written in [Lua](https://www.lua.org/).
 ```lua
 function kindmessage()
   emojis = {😊,❤️,🙂}
+  math.randomseed(os.time())
   print("Have a nice day! "..emojis[math.random(1,#emojis)])
 end
 ```
