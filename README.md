@@ -1,4 +1,4 @@
-<img src="Extras/repository-open-graph-template.jpg" width="500">
+<img src="Extras/repository-open-graph-template (1).jpg" width="500">
 
 # Lxvely Games GitHub Repository 
 #### A GitHub repository for the Roblox group Lxvely Games!
