@@ -10,6 +10,12 @@ You can find scripts for our models and plugins here. *(Games are not included.)
 
 *Also [here's a random Discord.Js example I made](https://gist.github.com/jacobhumston/08c5f7adf32368bb01d164faeed5acc5). It is for an older verison however. `v11.6`*
 
+```lua
+function message()
+print("Have a nice day! :)")
+end
+```
+
 ## Version Table
 Name | Type | Version
 ------------ | ------------ | ------------
