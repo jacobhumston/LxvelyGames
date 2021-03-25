@@ -23,6 +23,6 @@ Name | Type | Version
 
 ## Extra
 
-*Also [here's a random Discord.Js example I made](https://gist.github.com/jacobhumston/08c5f7adf32368bb01d164faeed5acc5). It is for an older verison however. `v11.6`*
+- [[Discord.Js v11.6] Random Response Examples.](https://gist.github.com/jacobhumston/08c5f7adf32368bb01d164faeed5acc5)
 
 
