@@ -16,6 +16,10 @@ function kindmessage()
   print("Have a nice day! "..emojis[math.random(1,#emojis)])
 end
 ```
+```lua
+kindmessage()
+--> Have a nice day! 😊
+```
 
 ## Version Table
 Name | Type | Version
