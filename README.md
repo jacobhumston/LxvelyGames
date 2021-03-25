@@ -8,8 +8,6 @@ You can find scripts for our models and plugins here. *(Games are not included.)
 
 **Feel free to make a [pull request](https://github.com/jacobhumston/LxvelyGames/pulls) or an [issue](https://github.com/jacobhumston/LxvelyGames/issues)!**
 
-*Also [here's a random Discord.Js example I made](https://gist.github.com/jacobhumston/08c5f7adf32368bb01d164faeed5acc5). It is for an older verison however. `v11.6`*
-
 Currently this repository is only written in [Lua](https://www.lua.org/).
 ```lua
 function message()
@@ -23,5 +21,8 @@ Name | Type | Version
 [SignPlugin](https://www.roblox.com/library/6304018498) | Plugin | V1
 [ObbyStarterKit](https://www.roblox.com/library/6516383538/) | Model | V1.2
 
+---
+
+*Also [here's a random Discord.Js example I made](https://gist.github.com/jacobhumston/08c5f7adf32368bb01d164faeed5acc5). It is for an older verison however. `v11.6`*
 
 
