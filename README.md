@@ -15,8 +15,7 @@ function kindmessage()
   math.randomseed(os.time())
   print("Have a nice day! "..emojis[math.random(1,#emojis)])
 end
-```
-```lua
+
 kindmessage()
 --> Have a nice day! 😊
 ```
