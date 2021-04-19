@@ -28,5 +28,5 @@ Name | Type | Version
 
 ## Extra
 
-- [[Discord.Js v11.6] Random Response Examples.](https://gist.github.com/jacobhumston/08c5f7adf32368bb01d164faeed5acc5 test)
+- [[Discord.Js v11.6] Random Response Examples.](https://gist.github.com/jacobhumston/08c5f7adf32368bb01d164faeed5acc5)
 - [Random Cat Pictures.](https://github.com/jacobhumston/LxvelyGames/tree/Main/Extras/RandomCatPics) 
