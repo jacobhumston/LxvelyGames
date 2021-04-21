@@ -16,7 +16,7 @@ function HandyFunctions.ClearTypeOfDescendant(instance,objecttype)
 	end	
 end
 
-function HandyFunctions.ReturnListOfChildren(instance,printindex,newline) 
+function HandyFunctions.ReturnListOfChildren(instance,index,newline) 
 	local tableofchildren = {}
 	for index, value in ipairs(instance:GetChildren()) do
 		if printindex == true then
@@ -32,7 +32,7 @@ function HandyFunctions.ReturnListOfChildren(instance,printindex,newline)
 	end
 end
 
-function HandyFunctions.ReturnListOfDescendants(instance,printindex,newline) 
+function HandyFunctions.ReturnListOfDescendants(instance,index,newline) 
 	local tableofchildren = {}
 	for index, value in ipairs(instance:GetDescendants()) do
 		if printindex == true then
