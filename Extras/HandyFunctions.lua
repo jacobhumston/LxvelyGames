@@ -30,6 +30,14 @@ function HandyFunctions.ReturnListOfChildren(instance,printindex,newline)
 	elseif newline == false then
 		return table.concat(tableofchildren,", ")
 	end
+end     
+
+function HandyFunctions.GetPlayerURL(player,endpoint)
+	if endpoint == "profile" then
+		return "https://roblox.com/profile/" .. player.Id .. "/"
+	elseif endpoint == "message" then
+	
+	end
 end
 
 function HandyFunctions.ReturnListOfDescendants(instance,printindex,newline) 
