@@ -34,9 +34,9 @@ end
 
 function HandyFunctions.GetPlayerURL(player,endpoint)
 	if endpoint == "profile" then
-		return "https://roblox.com/profile/" .. player.Id .. "/"
+		return "https://www.roblox.com/users/" .. player.UserId .. "/profile"
 	elseif endpoint == "message" then
-	
+		return "https://www.roblox.com/messages/compose?recipientId=" .. player.UserId
 	end
 end
 
