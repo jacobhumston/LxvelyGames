@@ -11,7 +11,7 @@ You can find scripts for our models and plugins here. *(Games are not included.)
 Currently this repository is only written in [Lua](https://www.lua.org/).
 ```lua
 function kindmessage()
-  emojis = {"😊","❤️","🙂"}
+  local emojis = {"😊","❤️","🙂"}
   math.randomseed(os.time())
   return print("Have a nice day! "..emojis[math.random(1,#emojis)])
 end
